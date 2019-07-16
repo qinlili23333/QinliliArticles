@@ -18,4 +18,4 @@
 
 [发布号]: https://t.me/qinlilibeta
 [开坑/转载/合作申请]: https://h5.scene.yqh5.cn/s/JqtSctjp
-[新Issue]: https://github.com/qinlili23333/QinliliArticles/issues
+[新 Issue]: https://github.com/qinlili23333/QinliliArticles/issues
