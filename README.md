@@ -3,7 +3,8 @@
 ##### 这个小站主要存放琴梨梨的原创内容，包括[作品][]、文章等。也有琴梨梨的[填坑状态][]  
 ###### 推荐订阅琴梨梨的[发布号][]接收最新内容！也随时欢迎[赞助][]琴梨梨进行更多创作！  
 ##### 有新内容建议吗？想转载内容吗？想要 PY 吗？欢迎随时提交[开坑/转载/合作申请][]或直接提交[新 Issue][]  
-###### 琴梨梨呼吁各位支持[纯净 Android 公约][]，共同打造更好的 Android 生态。
+###### 琴梨梨呼吁各位支持[纯净 Android 公约][]，共同打造更好的 Android 生态。  
+###### 下载[APP][]获得更方便的浏览体验！  
 
 
 
@@ -19,6 +20,7 @@
 
 [发布号]: https://t.me/qinlilibeta
 [纯净 Android 公约]: https://pure.qinlili.bid
+[APP]: https://github.com/qinlili23333/QinliliArticles/releases/tag/QinliliClient
 [赞助]: https://afdian.net/@qinliliAPP
 [作品]: https://github.com/qinlili23333/QinliliArticles/releases/
 [填坑状态]: https://github.com/qinlili23333/QinliliArticles/projects/
