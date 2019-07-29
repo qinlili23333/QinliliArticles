@@ -1,5 +1,0 @@
-{% if site.enable_amp %}
-  {% if page.path contains '_posts' %}
-    <link rel="amphtml" href="{{ page.id | prepend: site.ampdir | prepend: site.baseurl | prepend: site.url }}">
-  {% endif %}
-{% endif %}
