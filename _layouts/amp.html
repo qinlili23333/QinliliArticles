@@ -1,0 +1,61 @@
+---
+layout: amp
+---
+<!doctype html>
+<html amp lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="canonical" href="{{ page.canonical_url | prepend: site.baseurl | prepend: site.url }}" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata:400,700&amp;subset=latin-ext,vietnamese">
+    <style amp-custom>
+    *{margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}html{min-height:100%;box-sizing:border-box;-webkit-tap-highlight-color:transparent;font-size:62.5%}body{font-family:'Inconsolata', monospace;font-weight:400;-webkit-font-smoothing:antialiased}article,aside,figcaption,figure,footer,header,hgroup,main,menu,nav,section{display:block}h1,h2,h3,h4,h5,h6{font-weight:400;color:#163541}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}img{max-width:100%;font-style:italic;vertical-align:middle;border:0}svg:not(:root){overflow:hidden}svg{pointer-events:none;max-height:100%}a{background-color:transparent;text-decoration:none;color:#0067FB}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}i,em{font-weight:italic}figure{margin:0}hr{margin-top:2.5rem;margin-bottom:2.5rem;width:100%;height:1px;border:0;background:#EFF1F3}pre{overflow:auto}.u-container{max-width:62rem;margin-right:auto;margin-left:auto;padding-top:10rem;padding-right:1rem;padding-left:1rem}.u-separate{margin-right:.45rem;margin-left:.25rem;color:#5C6E74}.u-separate:after{content:'\00a0/'}.c-page__header{margin-bottom:10rem}.c-page__header h1{margin-bottom:2.5rem;line-height:1.5;font-size:2.4rem;color:#163541}.c-page__header p{line-height:1;font-size:1.8rem}.c-page__footer{margin-bottom:10rem;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}.c-page__footer p{line-height:1.5;font-size:1.8rem;color:#5C6E74}.c-article{margin-bottom:10rem}.c-article__header{margin-bottom:5rem}@media screen and (min-width: 45rem){.c-article__header{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:baseline;-webkit-align-items:baseline;-ms-flex-align:baseline;align-items:baseline}}.c-article__title{line-height:1.5;font-size:3.2rem;color:#163541}.c-article__time{line-height:1.5;font-size:1.8rem;color:#5C6E74}.c-article__main{margin-bottom:5rem;line-height:1.5;font-size:1.8rem;color:#5C6E74}.c-article__main>*{margin-bottom:1.8rem}.c-article__main h2{line-height:1.5;font-size:2.4rem}.c-article__main h3{line-height:1.5;font-size:2rem}.c-article__main h4{line-height:1.6;font-size:1.8rem}.c-article__main h5{line-height:1.5;font-size:1.8rem}.c-article__main strong{color:#163541;font-weight:400}.c-article__main blockquote{margin-left:0;margin-right:0;padding-left:1.8rem;border-left:1px solid #EFF1F3}.c-article__main ul,.c-article__main ol{margin-left:2.1rem}.c-tag{margin-right:1rem;position:relative;white-space:nowrap;line-height:1.5;font-size:1.8rem;color:#163541}.c-tag:before{color:#869395;content:'#\2009'}.c-archives{margin-bottom:10rem}.c-archives__year{margin-bottom:2.5rem;line-height:1.5;font-size:3.2rem}.c-archives__list{margin-bottom:2.5rem;list-style:none}.c-archives__item{padding-top:2.5rem;padding-bottom:2.5rem;border-top:1px solid #EFF1F3}@media screen and (min-width: 45rem){.c-archives__item{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}}.c-archives__item h3{line-height:1.5;font-size:1.8rem}.c-archives__item p{line-height:1.5;font-size:1.8rem;color:#515862}pre,code{font-family:'Inconsolata', monospace;font-size:1.4rem;line-height:1.5}.highlight{border-radius:4px;background:#FDFDFD;border:1px solid #E8E8EB;color:#93a1a1}.highlight .gutter{padding:1.2rem;border-right:1px solid #E8E8EB}.highlight .code{padding:1.2rem}span.lineno{padding:1rem;border-right:1px solid #E8E8EB}.highlight .c{color:#586e75}.highlight .err{color:#93a1a1}.highlight .g{color:#93a1a1}.highlight .k{color:#859900}.highlight .l{color:#93a1a1}.highlight .n{color:#93a1a1}.highlight .o{color:#859900}.highlight .x{color:#cb4b16}.highlight .p{color:#93a1a1}.highlight .cm{color:#586e75}.highlight .cp{color:#859900}.highlight .c1{color:#586e75}.highlight .cs{color:#859900}.highlight .gd{color:#2aa198}.highlight .ge{color:#93a1a1;font-style:italic}.highlight .gr{color:#dc322f}.highlight .gh{color:#cb4b16}.highlight .gi{color:#859900}.highlight .go{color:#93a1a1}.highlight .gp{color:#93a1a1}.highlight .gs{color:#93a1a1;font-weight:bold}.highlight .gu{color:#cb4b16}.highlight .gt{color:#93a1a1}.highlight .kc{color:#cb4b16}.highlight .kd{color:#268bd2}.highlight .kn{color:#859900}.highlight .kp{color:#859900}.highlight .kr{color:#268bd2}.highlight .kt{color:#dc322f}.highlight .ld{color:#93a1a1}.highlight .m{color:#2aa198}.highlight .s{color:#2aa198}.highlight .na{color:#93a1a1}.highlight .nb{color:#B58900}.highlight .nc{color:#268bd2}.highlight .no{color:#cb4b16}.highlight .nd{color:#268bd2}.highlight .ni{color:#cb4b16}.highlight .ne{color:#cb4b16}.highlight .nf{color:#268bd2}.highlight .nl{color:#93a1a1}.highlight .nn{color:#93a1a1}.highlight .nx{color:#93a1a1}.highlight .py{color:#93a1a1}.highlight .nt{color:#268bd2}.highlight .nv{color:#268bd2}.highlight .ow{color:#859900}.highlight .w{color:#93a1a1}.highlight .mf{color:#2aa198}.highlight .mh{color:#2aa198}.highlight .mi{color:#2aa198}.highlight .mo{color:#2aa198}.highlight .sb{color:#586e75}.highlight .sc{color:#2aa198}.highlight .sd{color:#93a1a1}.highlight .s2{color:#2aa198}.highlight .se{color:#cb4b16}.highlight .sh{color:#93a1a1}.highlight .si{color:#2aa198}.highlight .sx{color:#2aa198}.highlight .sr{color:#dc322f}.highlight .s1{color:#2aa198}.highlight .ss{color:#2aa198}.highlight .bp{color:#268bd2}.highlight .vc{color:#268bd2}.highlight .vg{color:#268bd2}.highlight .vi{color:#268bd2}.highlight .il{color:#2aa198}
+    </style>
+    {% if site.google_analytics %}
+    <amp-analytics type="googleanalytics">
+      <script type="application/json">
+        {
+          "vars": {
+          "account": "{{ site.google_analytics }}"
+        },
+          "triggers": {
+            "trackPageview": {
+              "on": "visible",
+              "request": "pageview"
+            }
+          }
+        }
+      </script>
+    </amp-analytics>
+    {% endif %}
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+  </head>
+  <body>
+    <main class="u-container">
+      <div class="c-page">
+        <article class="c-article">
+          <header class="c-page__header">
+            <h1>{{ site.description }}</h1>
+            <p><a href="{{ "/" | prepend: site.baseurl }}">&lt;&ndash;&ndash; Back</a></p>
+          </header>
+          <div class="c-article__main">
+            <header class="c-article__header">
+              <h1 class="c-article__title">{{ page.title }}</h1>
+              <p class="c-article__time"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
+            </header>
+            {{ content | markdownify | amp_images }}
+          </div>
+          <footer class="c-article__footer">
+            <p>
+              {% for tag in page.tags %}
+                <span class="c-tag">{{ tag }}</span>
+              {% endfor %}
+            </p>
+          </footer>
+        </article>
+      </div>
+    </main>
+  </body>
+</html>

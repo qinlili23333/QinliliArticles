@@ -1,0 +1,23 @@
+# Site settings
+title: 琴梨梨的小站
+description: 很显然还是 GitHub 的限制比较少，也没有广告，所以还是留在 GitHub 比较适合。
+author: 琴梨梨
+email: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://github.qinlili.bid" # the base hostname & protocol for your site
+twitter_username: YourTwitter
+github_username:  YourGitHub
+
+disqus_shortname: YourDisqusShortname
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+    style: compressed
+
+gems:
+  - jemoji
+  - jekyll-sitemap
+  - amp-jekyll
+
