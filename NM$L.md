@@ -22,3 +22,8 @@ http://www.excel-jiqiao.com/subject/hygeqqtx.html
 （这家的页面还有bug）http://www.qingpingshan.com/m/view.php?aid=342171  
 （搬到海峡对岸还行）https://apk.tw/thread-877146-1-1.html  
 https://www.getit01.com/p2018020828130963/  
+https://52movs.com/mov/29753566.php  
+（大哥你是不是爬了整个批站）https://52movs.com/mov/6190316.php  
+（你爬了整个简书吗）https://m.imooc.com/article/38019  
+（爬批站的数据还能换个主题色再建一个站啊）https://bilisong.com/mp3/9990216.html  
+（还在用http明文的屑站）http://www.php-master.com/post/325417.html  
