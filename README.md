@@ -3,6 +3,31 @@
 ##### 这个小站存放琴梨梨的原创内容，包括[作品][]、[文章][]以及[填坑状态][]。订阅[发布号][]接收最新内容！也随时欢迎[赞助][]！欢迎随时提交[开坑/转载/合作申请][]或直接提交[新 Issue][]。搬运之前记得看[搬运指引][]。  
 ###### 琴梨梨呼吁各位支持[纯净 Android 公约][]，共同打造更好的 Android 生态。  
 ###### 下载[APP][]获得更方便的浏览体验！  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+###### 我的APP被琴梨梨修改了？[点这里][]
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -25,3 +50,4 @@
 [开坑/转载/合作申请]: https://h5.scene.yqh5.cn/s/JqtSctjp
 [新 Issue]: https://github.com/qinlili23333/QinliliArticles/issues
 [搬运指引]: Copyright/Guide.md
+[点这里]: Copyright/MyAppIsChanged.md
