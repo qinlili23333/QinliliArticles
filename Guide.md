@@ -1,4 +1,4 @@
-# [⇦][]导航页
+# [╳][] 导航页
   
 #### 酷安账号密码已公开`huakuilss`，计划销号，故不做链接
 #### 琴梨梨在微博没有发布内容的账号，只有一个ID为`@这个号并没有用`的废号
@@ -25,7 +25,7 @@
 [纯净 Android 公约][]  
 
 
-[⇦]: README.md
+[╳]: README.md
 [软件]: https://github.com/qinlili23333/QinliliArticles/releases/
 [文章存档]: ArticleSave/list.md
 [TG发布号]: https://t.me/qinlilibeta
