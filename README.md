@@ -51,3 +51,4 @@
 [搬运指引]: Copyright/Guide.md
 [点这里]: Copyright/MyAppIsChanged.md
 [导航]: Guide.md
+body > div > h1:nth-child(1)
