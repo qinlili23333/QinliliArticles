@@ -3,6 +3,7 @@
 ## 以下站点的搬运行为均未得到允许     
 ## 建议对下列站点实施各类攻击行为  
   
+https://www.qhmanhua.com/yxgl/13780.html  
 https://52movs.com/mov/23608938.php  
 https://m.paopaoche.net/xia/410493  
 https://wap.shouji.com.cn/down/1548986.html  
