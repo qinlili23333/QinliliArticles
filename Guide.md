@@ -1,4 +1,4 @@
-# [×][] 导航页
+# [ × ][] 导航页
   
 ### 原创内容  
 [软件][] | [文章存档][] | [琴梨梨客户端][]  
@@ -22,7 +22,7 @@
 [纯净 Android 公约][]  
 
 
-[×]: README.md
+[ × ]: README.md
 [软件]: https://github.com/qinlili23333/QinliliArticles/releases/
 [文章存档]: ArticleSave/list.md
 [TG发布号]: https://t.me/qinlilibeta
