@@ -1,2 +1,3 @@
 #root > div > main > div > div.Card.Notifications-Main > section > div.NotificationList
 #root > div > main > div > div > div > div.ChatSideBar > div.ChatListGroup
+#content > div:nth-child(7) > div.span3 > div > div.box-content.nopadding > ul > li:nth-child(5) > a
