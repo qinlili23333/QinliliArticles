@@ -43,11 +43,11 @@ function getQueryString(name) {
         -o-transform: rotate(0deg);
         transform: rotate(0deg);
 
-        -webkit-animation: circle 3s infinite ease-in-out, rotate 2s infinite ease-in-out;
-        -moz-animation: circle 3s infinite ease-in-out, rotate 2s infinite ease-in-out;
-        -ms-animation: circle 3s infinite ease-in-out, rotate 2s infinite ease-in-out;
-        -o-animation: circle 3s infinite ease-in-out, rotate 2s infinite ease-in-out;
-        animation: circle 3s infinite ease-in-out, rotate 2s infinite ease-in-out;
+        -webkit-animation: circle 2s infinite linear, rotate 1.4s infinite linear;
+        -moz-animation: circle 2s infinite linear, rotate 1.4s infinite linear;
+        -ms-animation: circle 2s infinite linear, rotate 1.4s infinite linear;
+        -o-animation: circle 2s infinite linear, rotate 1.4s infinite linear;
+        animation: circle 2s infinite linear, rotate 1.4s infinite linear;
       }
 
       @-webkit-keyframes rotate {
@@ -125,7 +125,7 @@ function getQueryString(name) {
 </div>
 <script language="javascript" type="text/javascript">
 var target = getQueryString("target");
-setTimeout("javascript:location.href=target", 2000); 
+setTimeout("javascript:location.href=target", 4000); 
 </script>
 </body>
-</html>  
+</html>
