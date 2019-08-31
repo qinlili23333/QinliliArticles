@@ -7,7 +7,7 @@
 [TG发布号][] | [爱发电][] | [填坑状态][]  
   
 ### 互动  
-[Issue][]  
+[Issue][] | [赞助][]  
   
 ### 指引  
 [搬运指引][] | [被修改指引][]  
@@ -25,6 +25,7 @@
 [× ]: README.md
 [软件]: https://github.qinlili.bid/redirect.html?target=https://github.com/qinlili23333/QinliliArticles/releases/
 [文章存档]: ArticleSave/list.md
+[赞助]: Support/README.md
 [TG发布号]: https://github.qinlili.bid/redirect.html?target=https://t.me/qinlilibeta
 [纯净 Android 公约]: https://github.qinlili.bid/redirect.html?target=https://pure.qinlili.bid
 [琴梨梨客户端]: https://github.com/qinlili23333/QinliliArticles/releases/tag/QinliliClient
