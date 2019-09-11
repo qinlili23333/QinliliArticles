@@ -21,6 +21,8 @@
 ### 外部链接  
 [纯净 Android 公约][]  
 
+### 推广  
+![支付宝礼包](PicStorge/AD/alipay_libao.png)
 
 [× ]: README.md
 [软件]: https://qinlili.bid/redirect.html?target=https://github.com/qinlili23333/QinliliArticles/releases/
