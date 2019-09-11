@@ -12,7 +12,7 @@
   
 
 ### 推广  
-![支付宝礼包](PicStorge/AD/alipay_libao.png)
+![免费坐公交](PicStorge/AD/alipay_bus.png)
 
 
 
