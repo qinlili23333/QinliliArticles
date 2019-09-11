@@ -4,5 +4,5 @@
 [红芯浏览器，骗经费也请认真点好吗][]  
 
 
-[红芯浏览器，骗经费也请认真点好吗]: https://github.qinlili.bid/ArticleSave/hongxin/hongxin.html
+[红芯浏览器，骗经费也请认真点好吗]: https://qinlili.bid/ArticleSave/hongxin/hongxin.html
 [⇦]: ../README.md
