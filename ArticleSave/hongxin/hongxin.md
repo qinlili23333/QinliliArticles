@@ -1,4 +1,4 @@
-# 红芯浏览器，骗经费也请认真点好吗  
+# [⇦][] 红芯浏览器，骗经费也请认真点好吗  
 前几天看到一报道说红芯搞了个国产内核出来，一开始挺兴奋的，毕竟国内大部分浏览器其实也都是套个壳的chrome，于是就决定下载下来试试，没想到还是too young，被实实在在坑了一把。  
 首先贴一下[官网地址]，点进去我们可以看到下面这张图  
 ![官网宣传](1.webp)  
@@ -53,7 +53,7 @@ Chrome49？？？？？这个自研内核难道真的是Chrome换皮？咱接着
 咱也不是不想支持国产，作为土生土长的国人，当然是希望国产越做越好，可是这种拿着开源项目骗经费还做的一塌糊涂甚至硬件加速都没有的，我看，您还是认真点吧，别哪天不小心被国际上扒了那就真的丢脸丢出国门了。  
 附：[我并不是第一个发现的][]
 
-
+[⇦]: ../list.md
 [官网地址]: https://qinlili.bid/redirect.html?target=https://browser.redcore.cn/
 [下载地址]: https://qinlili.bid/redirect.html?target=http://d.redcore.cn/install_redcore.3.0.54.exe
 [备份]: https://qinlili.bid/redirect.html?target=https://qinlili.ctfile.com/fs/8067059-303883441
