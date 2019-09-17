@@ -9,6 +9,8 @@
 1. [APK文件的主体结构][]  
 2. [不同资源文件都告诉了你什么][]  
 3. [看懂manifest][]  
+#### 小技巧  
+[抓取知乎内图片的高清晰度版本][]  
 
 
 
@@ -17,3 +19,4 @@
 [APK文件的主体结构]: jianshu_backup/appmod/1.md
 [不同资源文件都告诉了你什么]: jianshu_backup/appmod/2.md
 [看懂manifest]: jianshu_backup/appmod/3.md
+[抓取知乎内图片的高清晰度版本]: jianshu_backup/zhihuimg/zhihuimg.md
