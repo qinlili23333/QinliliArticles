@@ -12,6 +12,9 @@
 
 #### 小技巧  
 [抓取知乎内图片的高清晰度版本][]  
+[一次移除游戏Steam版权保护的实录][]  
+
+
 
 
 
@@ -21,3 +24,4 @@
 [不同资源文件都告诉了你什么]: jianshu_backup/appmod/2.md
 [看懂manifest]: jianshu_backup/appmod/3.md
 [抓取知乎内图片的高清晰度版本]: jianshu_backup/zhihuimg/zhihuimg.md
+[一次移除游戏Steam版权保护的实录]: jianshu_backup/removedrm/removesteamdrm.md
