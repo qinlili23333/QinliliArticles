@@ -4,6 +4,7 @@
 ## 简书备份  
 ### 不可抗力消失  
 [红芯浏览器，骗经费也请认真点好吗][]  
+
 ### 主动备份  
 #### APP魔改行动  
 1. [APK文件的主体结构][]  
@@ -13,6 +14,10 @@
 #### 小技巧  
 [抓取知乎内图片的高清晰度版本][]  
 [一次移除游戏Steam版权保护的实录][]  
+
+#### 笔记本  
+[你真的适合轻薄本吗][]
+
 
 
 
@@ -25,3 +30,4 @@
 [看懂manifest]: jianshu_backup/appmod/3.md
 [抓取知乎内图片的高清晰度版本]: jianshu_backup/zhihuimg/zhihuimg.md
 [一次移除游戏Steam版权保护的实录]: jianshu_backup/removedrm/removesteamdrm.md
+[你真的适合轻薄本吗]: jianshu_backup/laptop/thinlaptop.md
