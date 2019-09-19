@@ -19,6 +19,12 @@
 [你真的适合轻薄本吗][]  
 [为什么我推荐娱乐本和轻薄本上1050][]  
 
+#### Android开发  
+[适配8.0+的自适应图标][]  
+[一次对签名验证＋阿里加固的逆向实录][]  
+[对dex2oat机制的一点发现][]
+[干掉微信Tinker热更，微信本该如此极速][]  
+[去除app内置内核，让页面加载飞起来][]  
 
 
 
@@ -33,3 +39,8 @@
 [一次移除游戏Steam版权保护的实录]: jianshu_backup/removedrm/removesteamdrm.md
 [你真的适合轻薄本吗]: jianshu_backup/laptop/thinlaptop.md
 [为什么我推荐娱乐本和轻薄本上1050]: jianshu_backup/laptop/why1050.md
+[适配8.0+的自适应图标]: jianshu_backup/android/adaptiveicon.md
+[一次对签名验证＋阿里加固的逆向实录]: jianshu_backup/android/alistub.md
+[对dex2oat机制的一点发现]: jianshu_backup/android/dex2oat.md
+[干掉微信Tinker热更，微信本该如此极速]: jianshu_backup/android/removetinker.md
+[去除app内置内核，让页面加载飞起来]: jianshu_backup/android/removewebview.md
