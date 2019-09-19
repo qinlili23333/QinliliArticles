@@ -25,6 +25,12 @@
 [对dex2oat机制的一点发现][]
 [干掉微信Tinker热更，微信本该如此极速][]  
 [去除app内置内核，让页面加载飞起来][]  
+[无需root无需7.0＋，扫一扫快捷方式自己做主][]  
+[合并重复代码，提高代码效率][]  
+[无需工具，让微信打开任意网页][]  
+[开启微信超级窗口，聊天看文两不误][]  
+[是谁让安卓变卡了][]  
+
 
 
 
@@ -44,3 +50,8 @@
 [对dex2oat机制的一点发现]: jianshu_backup/android/dex2oat.md
 [干掉微信Tinker热更，微信本该如此极速]: jianshu_backup/android/removetinker.md
 [去除app内置内核，让页面加载飞起来]: jianshu_backup/android/removewebview.md
+[无需root无需7.0＋，扫一扫快捷方式自己做主]: jianshu_backup/android/scanshortcut.md
+[合并重复代码，提高代码效率]: jianshu_backup/android/smaliopt.md
+[无需工具，让微信打开任意网页]: jianshu_backup/android/wechatbrowser.md
+;开启微信超级窗口，聊天看文两不误]: jianshu_backup/android/wechatmultiwindow.md
+[是谁让安卓变卡了]: jianshu_backup/android/whyandroidslow.md
