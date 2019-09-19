@@ -16,7 +16,8 @@
 [一次移除游戏Steam版权保护的实录][]  
 
 #### 笔记本  
-[你真的适合轻薄本吗][]
+[你真的适合轻薄本吗][]  
+[为什么我推荐娱乐本和轻薄本上1050][]  
 
 
 
@@ -31,3 +32,4 @@
 [抓取知乎内图片的高清晰度版本]: jianshu_backup/zhihuimg/zhihuimg.md
 [一次移除游戏Steam版权保护的实录]: jianshu_backup/removedrm/removesteamdrm.md
 [你真的适合轻薄本吗]: jianshu_backup/laptop/thinlaptop.md
+[为什么我推荐娱乐本和轻薄本上1050]: jianshu_backup/laptop/why1050.md
