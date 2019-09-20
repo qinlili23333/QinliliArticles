@@ -14,6 +14,7 @@
 >      move-result-object p0  
 >      const/4 p1, -0x1  
 >      invoke-virtual {p0, p1}, Landroid/view/Window;->setStatusBarColor(I)V  
+
 这段代码的含义是设置白底黑字的亮色状态栏，我们来分析一下哪里可以优化  
 1,第一行把p0移动到v3后，这个变量只在第二行使用了一次，就被覆盖了，那么我们可以删除第一行，把第二行的v3直接改成p0，减少了一次移动变量  
 2,第二行和第八行的的意义其实一样，因为这个activity顶部直接.super Landroid/app/Activity，引用父类方法和直接对自身引用效果一致，也就是说第二行得到的p3和第八行得到的p0是一样的，那么我们很明显不需要重复两次一样的操作。所以我们先把第八行删除。由于第二行得到的v3很快又被覆写了，所以第三行移动结果到v3改成v5（因为v5尚未被使用），然后第四行本来调用v3的改成v5，第十一行本来调用的p0这里也要改成v5，最后把已经废弃的第九行也删除  
@@ -27,6 +28,7 @@
 >      invoke-virtual {v3, v4}, Landroid/view/View;->setSystemUiVisibility(I)V  
 >      const/4 p1, -0x1  
 >      invoke-virtual {v5, p1}, Landroid/view/Window;->setStatusBarColor(I)V  
+
 优化后的代码显著短了很多，执行效果却完全一样，因为少了一些不必要的重复步骤，这一段新代码会取得更高的速度（琴梨梨自己测试提升在40ms左右，对于本来130ms左右的启动时间提升已经挺大了）
 
 
