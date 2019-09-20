@@ -53,5 +53,5 @@
 [无需root无需7.0＋，扫一扫快捷方式自己做主]: jianshu_backup/android/scanshortcut.md
 [合并重复代码，提高代码效率]: jianshu_backup/android/smaliopt.md
 [无需工具，让微信打开任意网页]: jianshu_backup/android/wechatbrowser.md
-;开启微信超级窗口，聊天看文两不误]: jianshu_backup/android/wechatmultiwindow.md
+[开启微信超级窗口，聊天看文两不误]: jianshu_backup/android/wechatmultiwindow.md
 [是谁让安卓变卡了]: jianshu_backup/android/whyandroidslow.md
