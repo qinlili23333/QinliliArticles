@@ -29,6 +29,7 @@ pre2:保存下面的代码到剪贴板，一会要用
 >                     android:name="android.intent.category.LEANBACK_LAUNCHER" />  
 >             </intent-filter>  
 >         </activity>  
+
 pre3:(可选)找到扫一扫的strings编号  
 arec里直接搜索然后复制编号就行，琴梨梨发现的编号是7F080967，不同版本可能不同  
 ![](58.png)  
@@ -45,6 +46,7 @@ step2去除括号前的斜杠和空格，在括号后把pre2里的代码插进�
 step3在android:theme下面键入以下内容  
 >             android:label="@7F080967"  
 >             android:icon="@7F0205D6"  
+
 label后面的编号就是扫一扫strings的编号，当然你也可以直接引号里打扫一扫，不过从规范的角度来看不推荐这么做  
 icon后面的编号是扫一扫图标的编号  
 注意输编号时要加个@  

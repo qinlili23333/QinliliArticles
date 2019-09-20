@@ -17,11 +17,12 @@ arsc还是别急着关，找到原来的图标，记下arsc ID（一般在mipmap
 ![](5.png)  
 步骤4：处理xml文件  
 新建一个xml文件，按照下面的格式填写  
-> <?xml version="1.0" encoding="utf-8"?>  
-> <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">  
->     <background android:drawable="@背景arsc ID" />  
->     <foreground android:drawable="@前景arsc ID" />  
-> </adaptive-icon>  
+<?xml version="1.0" encoding="utf-8"?>  
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">  
+    <background android:drawable="@背景arsc ID" />  
+    <foreground android:drawable="@前景arsc ID" />  
+</adaptive-icon>  
+
 比如我们把刚刚保存的arscID输进去，就是图中这样，保存，回编译  
 ![](6.png)  
 在步骤3里我们已经提前输好了xml的路径，接下来我们把这个xml按照输好的路径丢进安装包  

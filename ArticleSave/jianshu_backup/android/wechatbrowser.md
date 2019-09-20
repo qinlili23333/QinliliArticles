@@ -33,6 +33,7 @@ STEP1 复制下面的代码到剪贴板
 >                 <data  
 >                     android:mimeType="application/vnd.wap.xhtml+xml" />  
 >             </intent-filter>  
+
 顺带先科普下这段代码的用处是什么  
 >                  <action  
 >                      android:name="android.intent.action.VIEW" />  
@@ -40,15 +41,18 @@ STEP1 复制下面的代码到剪贴板
 >                      android:name="android.intent.category.DEFAULT" />  
 >                  <category  
 >                      android:name="android.intent.category.BROWSABLE" />  
+
 这一段时声明打开方式，意思是说下面的声明是一种打开方式  
 >                  <data android:scheme="http" />  
 >                  <data android:scheme="https" />  
+
 scheme后面跟的是链接类型，即xxxx://123456中的xxxx，比如你要打开huaji://haipa，只要把http或者https改成huaji就行了  
 >                  <data android:mimeType="text/html" />  
 >                  <data android:mimeType="text/plain" />  
 >                  <data android:mimeType="application/xhtml+xml" />  
 >                  <data  
 >                      android:mimeType="application/vnd.wap.xhtml+xml" />  
+
 这一堆声明到时打开的文件格式，mimetype后面跟支持的格式，html/plain/xhtml＋xml是浏览器一般支持的格式，你也可以添加图片类格式等等  
 STEP2 反编译你的微信包内manifest文件  
 ![](71.png)  

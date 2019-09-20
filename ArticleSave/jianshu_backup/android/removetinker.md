@@ -16,6 +16,7 @@
 >         android:allowBackup="false"禁止备份，微信用这种办法避开大部分系统备份接口，以推广自家xx宝的备份  
 >         android:hardwareAccelerated="true"硬件加速开启  
 >         android:largeHeap="true">声明收尾，没有“/”意味着下面还有补充内容  
+
 我们这次需要的信息是com.tencent.mm.app.Application  
 #### STEP2 在dex里定位这个位置  
 层层剥茧，很容易找到这个位置  
