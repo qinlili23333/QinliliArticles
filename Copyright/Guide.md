@@ -36,5 +36,5 @@
 
 [挂起来]: NM$L.md
 [这些内容]: CopyAsYouWant.md
-[在这里]: https://h5.scene.yqh5.cn/s/JqtSctjp
+[在这里]: https://qinlili.bid/redirect.html?target=https://github.com/qinlili23333/QinliliArticles/issues
 [⇦]: ../README.md
