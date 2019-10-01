@@ -18,6 +18,7 @@ https://52movs.com/mov/7593060.php
 https://m.imooc.com/article/38963  
 https://www.wandouip.com/t5i27710/  
 http://www.excel-jiqiao.com/subject/hygeqqtx.html  
+http://www.excel-jiqiao.com/subject/srepbxtx.html  
 （嗯这憨批还屏蔽我ip）https://read01.com/KBG6GkN.html  
 （又一个爬知乎的）https://www.kancloud.cn/ss87d4s7/sjxisuijing/1065309  
 （这家的页面还有bug）http://www.qingpingshan.com/m/view.php?aid=342171  
@@ -28,6 +29,7 @@ https://52movs.com/mov/29753566.php
 （你爬了整个简书吗）https://m.imooc.com/article/38019  
 （爬批站的数据还能换个主题色再建一个站啊）https://bilisong.com/mp3/9990216.html  
 （还在用http明文的屑站）http://www.php-master.com/post/325417.html  
+https://unordered.org/timelines/5801dd31dd000000  
 
 
 [⇦]: Guide.md
