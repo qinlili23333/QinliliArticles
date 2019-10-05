@@ -37,7 +37,7 @@
 [搬运指引]: Copyright/Guide.md
 [被修改指引]: Copyright/MyAppIsChanged.md
 [知乎]: https://qinlili.bid/redirect.html?target=https://www.zhihu.com/people/qinlili233/
-[简书]: https://qinlili.bid/redirect.html?target=https://www.jianshu.com/u/96fffad4d6bd
+[简书]: ArticleSave/jianshuRedirect.md
 [奶牛关]: https://qinlili.bid/redirect.html?target=https://cowlevel.net/people/qinlili
 [Steam]: https://qinlili.bid/redirect.html?target=https://steamcommunity.com/id/QINLILI/
 [甜水巷-QQ]: https://qinlili.bid/redirect.html?target=https://qm.qq.com/cgi-bin/qm/qr?k=f_Nc6Gt0n-jBMNCjpopNJf6-mnoRLY5x
