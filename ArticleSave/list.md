@@ -37,7 +37,7 @@
 
 
 [红芯浏览器，骗经费也请认真点好吗]: hongxin/hongxin.md
-[⇦]: ../README.md
+[⇦]: ../Guide.md
 [APK文件的主体结构]: jianshu_backup/appmod/1.md
 [不同资源文件都告诉了你什么]: jianshu_backup/appmod/2.md
 [看懂manifest]: jianshu_backup/appmod/3.md
