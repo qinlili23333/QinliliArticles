@@ -30,6 +30,9 @@ https://52movs.com/mov/29753566.php
 （爬批站的数据还能换个主题色再建一个站啊）https://bilisong.com/mp3/9990216.html  
 （还在用http明文的屑站）http://www.php-master.com/post/325417.html  
 https://unordered.org/timelines/5801dd31dd000000  
+https://www.getit01.com/p2018020927939217/  
+https://www.xuejiayuan.net/blog/6349d5af24094d9db46832c92ff830e8  
+ 
 
 
 [⇦]: Guide.md
