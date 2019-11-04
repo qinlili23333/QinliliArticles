@@ -49,4 +49,4 @@
 [Github]: https://qinlili.bid/redirect.html?target=https://github.com/qinlili23333
 
 
-<link rel="preconnect" href="https://qinlili.bid/redirect.html" >
+<link rel="preload" href="https://qinlili.bid/redirect.html" >
