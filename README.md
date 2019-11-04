@@ -30,4 +30,4 @@
 
 [≡]: Guide.md
 
-<link rel="preconnect" href="https://qinlili.bid/Guide.html" >
+<link rel="preload" href="https://qinlili.bid/Guide.html" >
