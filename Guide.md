@@ -24,6 +24,7 @@
 ### 推广  
 ![免费坐公交](PicStorge/AD/alipay_bus.png)
 
+
 [× ]: README.md
 [软件]: https://qinlili.bid/redirect.html?target=https://github.com/qinlili23333/QinliliArticles/releases/
 [文章存档]: ArticleSave/list.md
@@ -46,3 +47,6 @@
 [Twitter]: https://qinlili.bid/redirect.html?target=https://twitter.com/qinlili233
 [Facebook]: https://qinlili.bid/redirect.html?target=https://www.facebook.com/qinlili233
 [Github]: https://qinlili.bid/redirect.html?target=https://github.com/qinlili23333
+
+
+<link rel="preconnect" href="https://qinlili.bid/redirect.html" >
