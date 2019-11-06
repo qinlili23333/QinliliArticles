@@ -27,5 +27,5 @@
 
 
 [≡]: Guide.md
-[那个，琴梨梨改行卖花茶了]: PicStorge/AD/huacha/README.md
+[那个，琴梨梨改行卖花茶了]: PicStorge/AD/huacha/
 <link rel="preload" href="https://qinlili.bid/Guide.html" >
