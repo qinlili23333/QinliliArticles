@@ -9,9 +9,7 @@
   
 
 ### 推广  
-![双十一助力](PicStorge/AD/1111zhuli.png)
-
-
+# [那个，琴梨梨改行卖花茶了]
 
 
 
@@ -29,5 +27,5 @@
 
 
 [≡]: Guide.md
-
+[那个，琴梨梨改行卖花茶了]: PicStorge/AD/huacha/README.md
 <link rel="preload" href="https://qinlili.bid/Guide.html" >
