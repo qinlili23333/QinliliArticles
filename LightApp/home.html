@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<h1>发现</h1>
+
+<div id="btnContainer">
+  <button class="btn" onclick="listView()"><i class="fa fa-bars"></i> 列表</button> 
+  <button class="btn active" onclick="gridView()"><i class="fa fa-th-large"></i> 方块</button>
+</div>
+<br>
+<h2>轻应用</h2>
+<div class="row">
+  <div class="column" onclick="window.location.href= 'https://qinlili.bid/redirect.html?target=https://pure.qinlili.bid';return false" style="background-color:#F8C3CD;">
+    <h2>纯净Android公约</h2>
+    <p>改善Android生态和用户体验</p>
+  </div>
+  <div class="column" onclick="window.location.href= 'https://qinlili.bid/redirect.html?target=https://qinlili.bid/LightApp/R6/splash.html';return false" style="background-color:#FB966E;">
+    <h2>R6战绩查询</h2>
+    <p>从官方查询你的R6战绩</p>
+  </div>
+</div>
+
+<h2>客户端</h2>
+<div class="row">
+  <div class="column" onclick="window.location.href= 'qinlili://client.plugin.uxboost';return false" style="background-color:#F8C3CD;">
+    <h2>UXBoost优化</h2>
+    <p>优化性能或存储空间</p>
+  </div>
+  <div class="column" onclick="window.location.href= 'qinlili://client.clean';return false" style="background-color:#FB966E;">
+    <h2>清理</h2>
+    <p>释放存储空间</p>
+  </div>
+  <div class="column" onclick="window.location.href= 'qinlili://client.download';return false" style="background-color:#FAD689;">
+    <h2>下载器</h2>
+    <p>执行http下载</p>
+  </div>
+</div>
+<script>
+// Get the elements with class="column"
+var elements = document.getElementsByClassName("column");
+
+// Declare a loop variable
+var i;
+
+// List View
+function listView() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.width = "100%";
+  }
+}
+
+// Grid View
+function gridView() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.width = "33.33%";
+  }
+}
+
+/* Optional: Add active class to the current button (highlight it) */
+var container = document.getElementById("btnContainer");
+var btns = container.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
+
+</body>
+</html>
