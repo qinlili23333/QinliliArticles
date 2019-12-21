@@ -7,7 +7,7 @@
 [TG发布号][] | [爱发电][] | [填坑状态][]  
   
 ### 互动  
-[Issue][] | [赞助][]  
+[Issue][] | [赞助][] | [产品送测][]  
   
 ### 指引  
 [搬运指引][] | [被修改指引][]  
@@ -47,6 +47,6 @@
 [Twitter]: https://qinlili.bid/redirect.html?target=https://twitter.com/qinlili233
 [Facebook]: https://qinlili.bid/redirect.html?target=https://www.facebook.com/qinlili233
 [Github]: https://qinlili.bid/redirect.html?target=https://github.com/qinlili23333
-
+[产品送测]: SendTest.md
 
 <link rel="preload" href="https://qinlili.bid/redirect.html" >
