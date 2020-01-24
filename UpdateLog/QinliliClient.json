@@ -1,5 +1,5 @@
 {
     "version": "10",
-    "data": "新增一堆bug\n修复一堆旧bug",
+    "data": "新增发现功能\n修复下载模块崩溃导致整体崩溃的问题\n部分启用D8编译器\n新增侧边小工具\n优化扫码和保存截图的逻辑\n优化下载模块流畅度\n新增检查更新\nUXBoost支持单个app",
     "url": "https://github.com/qinlili23333/QinliliArticles/releases/download/QinliliClient/QinliliClient_Saya_1.1.0.apk"
 }
