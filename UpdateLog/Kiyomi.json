@@ -1,5 +1,5 @@
 {
-    "version": "14",
-    "data": "新增书加加Lite\n修复无法召唤打印服务的bug\n优化保护方案，缩小包体积并加快运行速度",
-    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_14.apk"
+    "version": "15",
+    "data": "启用新的页面缩放模式\n测试性的多窗口模式\n涨价到3.5元\n加入了更方便的清理入口\n清理全部数据不再会丢失激活和密码",
+    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_15.apk"
 }
