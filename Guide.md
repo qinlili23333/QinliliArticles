@@ -13,7 +13,7 @@
 [搬运指引][] | [被修改指引][]  
   
 ### 琴梨梨的账号  
-[知乎][] | [简书][] | [奶牛关][] | [Steam][] | [Twitter][] | [Facebook][] | [Github][]  
+[知乎][] | [简书][] | [奶牛关][] | [头条][] | [Steam][] | [Twitter][] | [Facebook][] | [Github][]  
   
 ### 后宫  
 [甜水巷-QQ][] | [三合楼-TG][] | [嫣红阁-Discord][]
@@ -21,8 +21,7 @@
 ### 外部链接  
 [纯净 Android 公约][]  
 
-### 推广  
-![免费坐公交](PicStorge/AD/alipay_bus.png)
+
 
 
 [× ]: README.md
@@ -48,5 +47,6 @@
 [Facebook]: https://qinlili.bid/redirect.html?target=https://www.facebook.com/qinlili233
 [Github]: https://qinlili.bid/redirect.html?target=https://github.com/qinlili23333
 [产品送测]: SendTest.md
+[头条]: https://profile.zjurl.cn/rogue/ugc/profile/?version_code=741&version_name=70401&user_id=2312987569569239&media_id=1660686012678147&request_source=1&active_tab=dongtai&device_id=65&app_name=news_article
 
 <link rel="preload" href="https://qinlili.bid/redirect.html" >
