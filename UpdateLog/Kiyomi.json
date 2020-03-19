@@ -1,5 +1,5 @@
 {
-    "version": "17",
-    "data": "运行速度优化\n过渡动画实装\n新版引导页面\n教务选课免费开放",
-    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_17.apk"
+    "version": "18",
+    "data": "「功能」新增网页拉起\n「体验」调整非线性动画时长\n「体验」启动画面不再是大灰屏\n「性能」测试性的启用了NEON支持",
+    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_18.apk"
 }
