@@ -1,5 +1,5 @@
 {
-    "version": "19",
-    "data": "「功能」支持保存课表，再也不怕教务系统打不开",
-    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_19.apk"
+    "version": "20",
+    "data": "「功能」课表快捷方式\n「功能」通知栏快捷课表\n「修复」一个导致一键课表后选课不可用的问题\n「性能」大幅优化运行速度和包体积",
+    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_20.apk"
 }
