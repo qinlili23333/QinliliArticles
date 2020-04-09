@@ -1,5 +1,5 @@
 {
-    "version": "24",
-    "data": "「微调」可在设置开关修改分数娱乐功能\n「功能」可选择默认加载在线课表\n「性能」重新编译了部分代码\n「性能」显著提高启动速度",
-    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_24.apk"
+    "version": "25",
+    "data": "「界面」优化功能入口，合并大量功能到设置\n「功能」快捷查分\n「界面」设置页面有列表动画效果了\n「功能」实装小轻的拟人化形象到新版启动页\n「优化」改善课表加载速度",
+    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_25.apk"
 }
