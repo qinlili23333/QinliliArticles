@@ -1,5 +1,5 @@
 {
-    "version": "25",
-    "data": "「界面」优化功能入口，合并大量功能到设置\n「功能」快捷查分\n「界面」设置页面有列表动画效果了\n「功能」实装小轻的拟人化形象到新版启动页\n「优化」改善课表加载速度",
-    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_25.apk"
+    "version": "26",
+    "data": "「优化」主界面长按返回键可完全退出（短按继续为后台纯净）\n「功能」返校申请填写（主界面右上查分与表单内）",
+    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_26.apk"
 }
