@@ -1,5 +1,5 @@
 {
-    "version": "30",
-    "data": "「功能」PDF兼容模式，支持低版本webview\n「功能」高亮度刷卡\n「优化」本地课表打开速度",
-    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_30.apk"
+    "version": "31",
+    "data": "「界面」部分页面质感化\n「功能」新增极速启动模式\n「优化」一键登录配置页面输入框\n「性能」加快dex2oat未预热时的启动速度\n「修复」刷饭卡亮度只能到一半的问题\n「修复」部分系统清理整个WebView失效",
+    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_31.apk"
 }
