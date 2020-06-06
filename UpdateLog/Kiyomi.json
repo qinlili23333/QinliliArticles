@@ -1,5 +1,5 @@
 {
-    "version": "33",
-    "data": "「立绘」想看看吃饭的小轻吗\n「功能」学习通和u净跳广告启动\n「优化」有琴梨梨客户端时拉起客户端代替打开浏览器\n「修复」主页状态栏的鬼畜显示\n「优化」刷饭卡启动快多了",
-    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_33.apk"
+    "version": "34",
+    "data": "「修复」高版本Webview加载本地课表失败\n「改善」PDF阅读器体验\n「功能」U净调试界面，支持删除tbs内核节约空间",
+    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_34.apk"
 }
