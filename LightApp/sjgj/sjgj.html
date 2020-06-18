@@ -105,7 +105,7 @@
                 if (xhr.readyState == 4) {
                     jsonText = JSON.parse(xhr.responseText);
                     var eleNum = 1
-                    for (i = 1; i < jsonText.data.list.length; i++) {
+                    for (i = 0; i < jsonText.data.list.length; i++) {
                         const ele = document.createElement('div');
                         ele.className = 'column';
                         ele.setAttribute('onclick', "window.location.href= '" + jsonText.data.list[i].listeningAudio + "';return false");
