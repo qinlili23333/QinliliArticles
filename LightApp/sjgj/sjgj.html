@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<title>世纪高教解析器</title>
+<head>
+    <link rel="stylesheet" href="font-awesome.min.css">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        .column {
+            float: left;
+            width: 33.33%;
+            padding: 10px;
+        }
+
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        .btn {
+            border: none;
+            outline: none;
+            padding: 12px 16px;
+            background-color: #f1f1f1;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            background-color: #ddd;
+        }
+
+        .btn.active {
+            background-color: #666;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>世纪高教解析器</h1>
+    <div id="btnContainer">
+        <button class="btn" onclick="listView()"><i class="fa fa-bars"></i> 列表</button>
+        <button class="btn active" onclick="gridView()"><i class="fa fa-th-large"></i> 方块</button>
+    </div>
+    <br>
+    <h2>点击跳转音频/长按跳转字幕</h2>
+    <br>
+    <h3>输入解析类型编号后点击按钮解析</h3>
+    <p>目前支持：1（四级真题），2（六级真题），3（BBC），4（VOA），5（模拟题）</p>
+    <input id="num">
+    <button onclick="doFetch(document.getElementById('num').value)">解析</button>
+    <br>
+    <br>
+    <br>
+    <div class="row" id="xhrempty">
+        <!--
+            <div class="column"
+            onclick="window.location.href= 'https://qinlili.bid';return false"
+            style="background-color:#F8C3CD;">
+             <h1>琴梨梨</h1>
+             <p>小站</p>
+             </div>
+        -->
+    </div>
+    <script>
+        var elements = document.getElementsByClassName("column");
+        var i;
+        function listView() {
+            for (i = 0; i < elements.length; i++) {
+                elements[i].style.width = "100%";
+            }
+        }
+        function gridView() {
+            for (i = 0; i < elements.length; i++) {
+                elements[i].style.width = "33.33%";
+            }
+        }
+        var container = document.getElementById("btnContainer");
+        var btns = container.getElementsByClassName("btn");
+        for (var i = 0; i < btns.length; i++) {
+            btns[i].addEventListener("click", function () {
+                var current = document.getElementsByClassName("active");
+                current[0].className = current[0].className.replace(" active", "");
+                this.className += " active";
+            });
+        }
+    </script>
+    <script>
+        var getRandomColor = function () {
+            return '#' + (function (color) {
+                return (color += 'abcdef'[Math.floor(Math.random() * 6)])
+                    && (color.length == 6) ? color : arguments.callee(color);
+            })('');
+        } 
+    </script>
+    <script src="long-press.min.js"></script>
+    <script>
+        var doFetch = function (num) {
+            document.getElementById('xhrempty').innerHTML = "";
+            var xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4) {
+                    jsonText = JSON.parse(xhr.responseText);
+                    var eleNum = 1
+                    for (i = 1; i < jsonText.data.list.length; i++) {
+                        const ele = document.createElement('div');
+                        ele.className = 'column';
+                        ele.setAttribute('onclick', "window.location.href= '" + jsonText.data.list[i].listeningAudio + "';return false");
+                        var h = document.createElement("H1");
+                        var t = document.createTextNode(jsonText.data.list[i].name);
+                        h.appendChild(t);
+                        ele.appendChild(h);
+                        var h = document.createElement("P");
+                        var t = document.createTextNode(jsonText.data.list[i].remarks);
+                        h.appendChild(t);
+                        ele.appendChild(h);
+                        ele.style.backgroundColor = getRandomColor();
+                        var lrclink = jsonText.data.list[i].listeningWord;
+                        ele.addEventListener('long-press', function (e) {
+                            window.location.href = lrclink;
+                        });
+                        document.getElementById("xhrempty").appendChild(ele);
+                    }
+
+                }
+            };
+            var jsonurl = 'https://sjgj.51pinzhi.cn/wx/listen/list?type=' + num
+            xhr.open('get', jsonurl);
+            xhr.send(null);
+        };
+    </script>
+</body>
+
+</html>
