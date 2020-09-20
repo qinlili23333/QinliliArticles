@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<title>RSD计算器</title>
+
+<head>
+    <script>
+        var RSDArray = new Array();
+        var total = 0;
+        var average = 0;
+        var totalSD = 0;
+        var SD = 0;
+        var RSD = 0;
+    </script>
+    <link
+        href="https://cdn.bootcdn.net/ajax/libs/material-components-web/8.0.0-canary.911014711.0/material-components-web.min.css"
+        rel="stylesheet">
+    <script
+        src="https://cdn.bootcdn.net/ajax/libs/material-components-web/8.0.0-canary.911014711.0/material-components-web.min.js"></script>
+</head>
+
+<body>
+    <p id="arraystring"></p>
+    <label class="mdc-text-field mdc-text-field--outlined" data-mdc-auto-init="MDCTextField">
+        <input type="number" id="num" class="mdc-text-field__input" aria-labelledby="my-label-id">
+        <span class="mdc-notched-outline">
+          <span class="mdc-notched-outline__leading"></span>
+          <span class="mdc-notched-outline__notch">
+            <span class="mdc-floating-label" id="my-label-id">数值</span>
+          </span>
+          <span class="mdc-notched-outline__trailing"></span>
+        </span>
+      </label>
+      <button onclick="addVar();"class="mdc-button foo-button">
+        <div class="mdc-button__ripple"></div>
+        <span class="mdc-button__label">添加值</span>
+      </button>
+      <button onclick="calc();"class="mdc-button foo-button">
+        <div class="mdc-button__ripple"></div>
+        <span class="mdc-button__label">计算</span>
+      </button>
+      <button onclick="clearArray();)"class="mdc-button foo-button">
+        <div class="mdc-button__ripple"></div>
+        <span class="mdc-button__label">清空</span>
+      </button>
+    <p id="average"></p>
+    <p id="SDv"></p>
+    <p id="RSDv"></p>
+    <br>
+    <br>
+
+    <script>
+        var addVar = function () {
+            if (document.getElementById('num').value) {
+                RSDArray[RSDArray.length] = document.getElementById('num').value;
+                document.getElementById('arraystring').innerText = RSDArray.toString();
+                document.getElementById('num').value = "";
+            }
+            else {
+                window.alert("别拿空值调戏人家啦,人家要被玩坏了!")
+            }
+        }
+        var calc = function () {
+            total = 0;
+            average = 0;
+            totalSD = 0;
+            SD = 0;
+            RSD = 0;
+            for (var i = 0; RSDArray[i]; i++) {
+                total = Number(total) + Number(RSDArray[i]);
+            }
+            average = Number(total) / RSDArray.length;
+            document.getElementById('average').innerText = "平均值:" + average;
+            for (var i = 0; RSDArray[i]; i++) {
+                var abs = Math.abs(Number(RSDArray[i]) - Number(average));
+                var absq = Number(abs) * Number(abs);
+                totalSD = Number(totalSD) + Number(absq);
+            }
+            SD = strip(Math.sqrt(Number(totalSD) / (Number(RSDArray.length) - 1)));
+            document.getElementById('SDv').innerText = "SD:" + SD;
+            document.getElementById('RSDv').innerText = "RSD:" + Number(SD) / Number(average) * 100 + "%";
+        }
+        var clearArray = function () {
+            RSDArray = [];
+            document.getElementById('arraystring').innerText = RSDArray.toString();
+            document.getElementById('average').innerText = "";
+            document.getElementById('SDv').innerText = "";
+            document.getElementById('RSDv').innerText = "";
+        }
+    </script>
+    <script>
+        window.mdc.autoInit();
+        var getRandomColor = function () {
+            return '#' + (function (color) {
+                return (color += 'abcdef'[Math.floor(Math.random() * 6)])
+                    && (color.length == 6) ? color : arguments.callee(color);
+            })('');
+        }
+        function strip(num, precision = 12) {
+            return +parseFloat(num.toPrecision(precision));
+        }
+    </script>
+</body>
+
+</html>
