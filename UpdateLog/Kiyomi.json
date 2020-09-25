@@ -1,5 +1,5 @@
 {
-    "version": "49",
-    "data": "优化白屏时间\n新增RSD计算器",
-    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_49.apk"
+    "version": "50",
+    "data": "RSD计算器增强为误差小助手\n新增奥蓝网验证码自动识别（测试）\n新增渲染器省电模式（测试）",
+    "url": "https://github.com/qinlili23333/PageConnect/releases/download/Kiyomi/Kiyomi_50.apk"
 }
