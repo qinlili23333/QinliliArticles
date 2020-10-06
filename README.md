@@ -23,4 +23,3 @@
 [≡]: Guide.md
 [戳这里]: ArticleSave/qwk/README.md
 <link rel="preload" href="https://qinlili.bid/Guide.html" >
-<meta name="cf-2fa-verify" content="225fab4f70b6234">
