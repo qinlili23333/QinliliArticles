@@ -43,7 +43,7 @@
 [甜水巷-QQ]: https://qinlili.bid/redirect.html?target=https://qm.qq.com/cgi-bin/qm/qr?k=f_Nc6Gt0n-jBMNCjpopNJf6-mnoRLY5x
 [三合楼-TG]: https://qinlili.bid/redirect.html?target=https://t.me/sanhelou
 [嫣红阁-Discord]: https://qinlili.bid/redirect.html?target=https://discord.gg/n8EwMFn
-[Twitter]: https://qinlili.bid/redirect.html?target=https://twitter.com/qinlili233
+[Twitter]: https://qinlili.bid/redirect.html?target=https://twitter.com/real_qinlili
 [Facebook]: https://qinlili.bid/redirect.html?target=https://www.facebook.com/qinlili233
 [Github]: https://qinlili.bid/redirect.html?target=https://github.com/qinlili23333
 [产品送测]: SendTest.md
