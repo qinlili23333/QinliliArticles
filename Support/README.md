@@ -1,14 +1,20 @@
 # [⇦][] 如何赞助琴梨梨  
 
 
-
-# 页面施工中...
 ## 免费赞助  
+### 城通网盘  
+使用琴梨梨的邀请链接注册或续费城通网盘  
+[注册链接][]  [会员开通链接][]  
 ## 直接捐赠  
-### 爱发电  
+### [爱发电][]  
+
 ### 直接转账  
-### 加入付费群  
+### [加入付费群][]  
 
 
 
 [⇦]: ../Guide.md
+[注册链接]: https://qinlili.bid/redirect.html?target=https://www.ctfile.com/linker/8067059
+[会员开通链接]: https://qinlili.bid/redirect.html?target=https://www.ctfile.com/p/giftcard?uid=8067059&type=1&key=3dc17d
+[爱发电]: https://qinlili.bid/redirect.html?target=https://afdian.net/@qinliliAPP
+[加入付费群]: https://qinlili.bid/redirect.html?target=https://qm.qq.com/cgi-bin/qm/qr?k=f_Nc6Gt0n-jBMNCjpopNJf6-mnoRLY5x
