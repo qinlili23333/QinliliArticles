@@ -1,7 +1,7 @@
 # [× ][] 导航页
   
 ### 原创内容  
-[软件][] | [文章存档][] | [琴梨梨客户端][]  
+[软件][] | [文章存档][] | [琴梨梨客户端][] | [开源仓库][]  
   
 ### 动态  
 [TG发布号][] | [爱发电][] | [填坑状态][]  
@@ -35,6 +35,7 @@
 [Issue]: https://qinlili.bid/redirect.html?target=https://github.com/qinlili23333/QinliliArticles/issues
 [填坑状态]: https://qinlili.bid/redirect.html?target=https://github.com/qinlili23333/QinliliArticles/projects/
 [搬运指引]: Copyright/Guide.md
+[开源仓库]: Repo.md
 [被修改指引]: Copyright/MyAppIsChanged.md
 [知乎]: https://qinlili.bid/redirect.html?target=https://www.zhihu.com/people/qinlili233/
 [简书]: ArticleSave/jianshuRedirect.md
