@@ -49,6 +49,8 @@
 `Win程序`nw.js和Flash29的缝合怪，继续安全的使用Flash~~玩奥拉星~~  
 #### `Fork`[DirectXShaderCompiler](https://github.com/qinlili23333/DirectXShaderCompiler)  
 `云操作`只是想用Appveyor构建一份32位版本罢了  
+#### [zhlhhDownloader](https://github.com/qinlili23333/zhlhhDownloader)  
+`浏览器脚本`爬取wx.zhlhh.com的连环画并打包下载，用了点骚操作解决跨域  
 
 ## 不再进一步开发  
 #### [ADLauncher](https://github.com/qinlili23333/ADLauncher)  
