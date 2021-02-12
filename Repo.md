@@ -2,7 +2,7 @@
 ## 活跃更新阶段  
 #### [DrugStandardDownloader](https://github.com/qinlili23333/DrugStandardDownloader)  
 `网页轻应用/APP`药典下载器，网页版功能不大全，建议使用APP版  
-网页版地址https://drug.qinlili.bid  
+[网页版地址](https://drug.qinlili.bid)  
 #### `Fork`[Gibbed.SaintsRow2](https://github.com/qinlili23333/Gibbed.SaintsRow2)  
 `.Net程序`圣徒2游戏的一些工具，由琴梨梨Fork并适配新系统  
 #### [CryoWyvern](https://github.com/qinlili23333/CryoWyvern)  
@@ -10,12 +10,12 @@
 #### [BotuDecrypt](https://github.com/qinlili23333/BotuDecrypt)  
 `.Net程序`下载解密博图电子书  
 正在开发64位版本  
-#### [NJUCM-Elina](https://github.com/qinlili23333/)  
+#### [NJUCM-Elina](https://github.com/qinlili23333/NJUCM-Elina)  
 `nw.js程序`第三方校园网认证程序  
 以南中医为基础，但其他学校改改地址也可用  
 #### [ctfileGet](https://github.com/qinlili23333/ctfileGet)  
 `网页轻应用`解析城通网盘的直连地址  
-网页版地址https://ctfile.qinlili.bid  
+[网页版地址](https://ctfile.qinlili.bid)  
 
 ## 稳定维护阶段  
 #### [SuperPIP](https://github.com/qinlili23333/SuperPIP)  
@@ -31,7 +31,7 @@
 需要所在IP拥有爱学术权限  
 #### [AnalyticalChemErrorCalc](https://github.com/qinlili23333/AnalyticalChemErrorCalc)  
 `网页轻应用`分析化学误差计算器  
-网页版地址https://acc.qinlili.bid  
+[网页版地址](https://acc.qinlili.bid)  
 一直想写更多的学术性计算工具并整合为新项目`Pyramid`，但显然咕了  
 #### [NJUCM_GPA](https://github.com/qinlili23333/NJUCM_GPA)  
 `浏览器脚本`南中医绩点计算工具  
@@ -59,7 +59,8 @@
 超星已经自己放弃了Flash，本项目无继续价值  
 #### [Yet-Another-BSOD-Maker](https://github.com/qinlili23333/Yet-Another-BSOD-Maker)  
 `网页轻应用`调用Win10的致命Bug制造蓝屏  
-咖喱会很快修复这个Bug，这个娱乐项目也没有继续更新的意义  
+咖喱会很快修复这个Bug，这个娱乐项目也没有继续更新的意义
+[网页版地址](https://bsod.qinlili.bid)  
 
 
 
