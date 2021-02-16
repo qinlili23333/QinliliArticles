@@ -30,6 +30,8 @@
 #### [iresearchDownloader](https://github.com/qinlili23333/iresearchDownloader)  
 `.Net程序`爱学术PDF原文下载器，支持多种下载方式  
 需要所在IP拥有爱学术权限  
+#### [XTZX-FuckWechat](https://github.com/qinlili23333/XTZX-FuckWechat)  
+`浏览器脚本`学堂在线去微信助手,自动切换账号密码登录,自动跳过绑定微信提示  
 #### [AnalyticalChemErrorCalc](https://github.com/qinlili23333/AnalyticalChemErrorCalc)  
 `网页轻应用`分析化学误差计算器  
 [网页版地址](https://acc.qinlili.bid)  
