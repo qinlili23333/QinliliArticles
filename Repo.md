@@ -7,22 +7,23 @@
 `.Net程序`圣徒2游戏的一些工具，由琴梨梨Fork并适配新系统  
 #### [CryoWyvern](https://github.com/qinlili23333/CryoWyvern)  
 `Win程序`一个游戏优化工具，计划陆续支持越来越多的游戏  
-#### [BotuDecrypt](https://github.com/qinlili23333/BotuDecrypt)  
-`.Net程序`下载解密博图电子书  
-正在开发64位版本  
 #### [NJUCM-Elina](https://github.com/qinlili23333/NJUCM-Elina)  
 `nw.js程序`第三方校园网认证程序  
 以南中医为基础，但其他学校改改地址也可用  
+
+## 稳定维护阶段  
 #### [ctfileGet](https://github.com/qinlili23333/ctfileGet)  
 `网页轻应用`解析城通网盘的直连地址  
 [网页版地址](https://ctfile.qinlili.bid)  
-
-## 稳定维护阶段  
+#### [BotuDecrypt](https://github.com/qinlili23333/BotuDecrypt)  
+`.Net程序`下载解密博图电子书  
 #### [SuperPIP](https://github.com/qinlili23333/SuperPIP)  
 `浏览器脚本`让所有网页上的视频支持画中画和倍速  
 #### [ZhihuNight](https://github.com/qinlili23333/ZhihuNight)  
 `浏览器脚本`支持知乎网页版的夜间模式  
 一些页面上有bug，但因为没找到解决办法暂时没有解决  
+#### [3adiskQuickDL](https://github.com/qinlili23333/3adiskQuickDL)  
+`浏览器脚本`3adisk下载按钮秒出无需等待  
 #### [UnlockIcourse163SHD](https://github.com/qinlili23333/UnlockIcourse163SHD)  
 `浏览器脚本`开启中国大学MOOC的非全屏超高清  
 切换章节后需要刷新，这个bug暂时无解  
