@@ -1,5 +1,8 @@
 # [⇦][] 文章存档  
 #### 记录所有在全部平台消失或可能消失的文章  
+  
+## 不适合其他平台的文章  
+[解密新东方Koolearn的视频][]  
  
 ## 简书备份  
 ### 不可抗力消失  
@@ -55,3 +58,4 @@
 [无需工具，让微信打开任意网页]: jianshu_backup/android/wechatbrowser.md
 [开启微信超级窗口，聊天看文两不误]: jianshu_backup/android/wechatmultiwindow.md
 [是谁让安卓变卡了]: jianshu_backup/android/whyandroidslow.md
+[解密新东方Koolearn的视频]: KoolearnDecrypt.md
