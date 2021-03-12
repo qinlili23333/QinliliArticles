@@ -12,6 +12,8 @@
 以南中医为基础，但其他学校改改地址也可用  
 
 ## 稳定维护阶段  
+#### [Fuck51ctoBind](https://github.com/qinlili23333/Fuck51ctoBind)  
+`浏览器脚本`干掉51CTO强制绑定微信  
 #### [ctfileGet](https://github.com/qinlili23333/ctfileGet)  
 `网页轻应用`解析城通网盘的直连地址  
 [网页版地址](https://ctfile.qinlili.bid)  
