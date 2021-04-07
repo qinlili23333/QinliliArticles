@@ -10,6 +10,13 @@
 #### [NJUCM-Elina](https://github.com/qinlili23333/NJUCM-Elina)  
 `nw.js程序`第三方校园网认证程序  
 以南中医为基础，但其他学校改改地址也可用  
+#### [CC-ATTIS](https://github.com/qinlili23333/CC-ATTIS)  
+`nw.js程序`刷cloudcampus的小工具  
+适用于南中医，南航等存在澳洲中外合作专业的学校  
+#### [ruffle-voicesea](https://github.com/qinlili23333/ruffle-voicesea)  
+`网页轻应用`基于Ruffle的在线Flash游戏海之声VoicesFromTheSea  
+[网页版地址](https://voicesea.qinlili.bid)  
+  
 
 ## 稳定维护阶段  
 #### [Fuck51ctoBind](https://github.com/qinlili23333/Fuck51ctoBind)  
