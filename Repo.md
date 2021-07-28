@@ -1,12 +1,13 @@
 # [⇦][]开源仓库  
 ## 活跃更新阶段  
-#### [DrugStandardDownloader](https://github.com/qinlili23333/DrugStandardDownloader)  
-`网页轻应用/APP`药典下载器，网页版功能不大全，建议使用APP版  
-[网页版地址](https://drug.qinlili.bid)  
-#### `Fork`[Gibbed.SaintsRow2](https://github.com/qinlili23333/Gibbed.SaintsRow2)  
-`.Net程序`圣徒2游戏的一些工具，由琴梨梨Fork并适配新系统  
 #### [CryoWyvern](https://github.com/qinlili23333/CryoWyvern)  
 `Win程序`一个游戏优化工具，计划陆续支持越来越多的游戏  
+#### [XXQG-DL](https://github.com/qinlili23333/XXQG-DL)  
+`浏览器脚本`学习强国视频批量下载  
+
+  
+
+## 稳定维护阶段  
 #### [NJUCM-Elina](https://github.com/qinlili23333/NJUCM-Elina)  
 `nw.js程序`第三方校园网认证程序  
 以南中医为基础，但其他学校改改地址也可用  
@@ -16,9 +17,14 @@
 #### [ruffle-voicesea](https://github.com/qinlili23333/ruffle-voicesea)  
 `网页轻应用`基于Ruffle的在线Flash游戏海之声VoicesFromTheSea  
 [网页版地址](https://voicesea.qinlili.bid)  
-  
-
-## 稳定维护阶段  
+#### [DrugStandardDownloader](https://github.com/qinlili23333/DrugStandardDownloader)  
+`网页轻应用/APP`药典下载器，网页版功能不大全，建议使用APP版  
+[网页版地址](https://drug.qinlili.bid)  
+#### `Fork`[Gibbed.SaintsRow2](https://github.com/qinlili23333/Gibbed.SaintsRow2)  
+`.Net程序`圣徒2游戏的一些工具，由琴梨梨Fork并适配新系统  
+#### [HowTo60](https://github.com/qinlili23333/HowTo60)  
+`网页轻应用`及格计算器，计算出需要多少卷面分才能及格  
+[网页版地址](https://60.qinlili.bid)  
 #### [Fuck51ctoBind](https://github.com/qinlili23333/Fuck51ctoBind)  
 `浏览器脚本`干掉51CTO强制绑定微信  
 #### [ctfileGet](https://github.com/qinlili23333/ctfileGet)  
