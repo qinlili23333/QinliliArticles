@@ -2,12 +2,15 @@
 ## 活跃更新阶段  
 #### [CryoWyvern](https://github.com/qinlili23333/CryoWyvern)  
 `Win程序`一个游戏优化工具，计划陆续支持越来越多的游戏  
-#### [XXQG-DL](https://github.com/qinlili23333/XXQG-DL)  
-`浏览器脚本`学习强国视频批量下载  
+
 
   
 
 ## 稳定维护阶段  
+#### [XXQG-DL](https://github.com/qinlili23333/XXQG-DL)  
+`浏览器脚本`学习强国视频批量下载  
+#### [CXJT_FHD](https://github.com/qinlili23333/CXJT_FHD)  
+`浏览器脚本`让超星讲坛的视频默认播放高码率原画版本  
 #### [NJUCM-Elina](https://github.com/qinlili23333/NJUCM-Elina)  
 `nw.js程序`第三方校园网认证程序  
 以南中医为基础，但其他学校改改地址也可用  
