@@ -1,7 +1,7 @@
 # [× ][] 导航页
   
 ### 原创内容  
-[软件][] | [文章存档][] | [琴梨梨客户端][] | [开源仓库][]  
+[软件][] | [文章存档][] | [琴梨梨客户端][] | [开源仓库][] | [GreasyFork脚本站](https://greasyfork.org/zh-CN/users/455225-qinlili23333)  
   
 ### 动态  
 [TG发布号][] | [爱发电][] | [填坑状态][]  
@@ -13,7 +13,7 @@
 [搬运指引][] | [被修改指引][]  
   
 ### 琴梨梨的账号  
-[知乎][] | [简书][] | [奶牛关][] | [头条][] | [Steam][] | [Twitter][] | [Facebook][] | [Github][]  
+[知乎][] | [Bilibili](https://space.bilibili.com/3884200) | [奶牛关][] | [头条][] | [Steam][] | [Twitter][] | [Facebook][] | [Github][] | [YouTube](https://www.youtube.com/channel/UCMIr4i7C69O3yfzkVsDD8EQ)  
   
 ### 后宫  
 [甜水巷-QQ][] | [三合楼-TG][] | [嫣红阁-Discord][]
