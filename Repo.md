@@ -2,7 +2,12 @@
 ## 活跃更新阶段  
 #### [CryoWyvern](https://github.com/qinlili23333/CryoWyvern)  
 `Win程序`一个游戏优化工具，计划陆续支持越来越多的游戏  
-
+#### [SakiProgress](https://github.com/qinlili23333/SakiProgress)  
+`js库`无依赖轻量化的网页进度条  
+#### [WebXHRDL](https://github.com/qinlili23333/WebXHRDL)  
+`js库`轻量化的基于XHR的网页下载器  
+#### [SuperHexagonOptimize](https://github.com/qinlili23333/SuperHexagonOptimize)  
+`.Net程序`解决SuperHexagon的延迟和卡顿  
 
   
 
