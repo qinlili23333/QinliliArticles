@@ -12,6 +12,14 @@
   
 
 ## 稳定维护阶段  
+#### [ctfile.Workers](https://github.com/qinlili23333/ctfile.Workers)  
+`CloudflareWorkers`基于Workers的城通网盘直连解析  
+#### [FuckCache](https://github.com/qinlili23333/FuckCache)  
+`Android程序`可能是最小最快的缓存清理工具，基于Shizuku  
+#### [PolyvNMSL](https://github.com/qinlili23333/PolyvNMSL)  
+`浏览器脚本`干掉polyv对idm的限制  
+#### [iresearchWebDL](https://github.com/qinlili23333/iresearchWebDL)  
+`浏览器脚本`爱学术网页内下载器  
 #### [XXQG-DL](https://github.com/qinlili23333/XXQG-DL)  
 `浏览器脚本`学习强国视频批量下载  
 #### [CXJT_FHD](https://github.com/qinlili23333/CXJT_FHD)  
