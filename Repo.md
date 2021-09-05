@@ -1,4 +1,7 @@
 # [⇦][]开源仓库  
+
+#### 游戏优化类项目请前往[Glacier Lab](https://github.com/GlacierLab)获取  
+
 ## 活跃更新阶段  
 #### [CryoWyvern](https://github.com/qinlili23333/CryoWyvern)  
 `Win程序`一个游戏优化工具，计划陆续支持越来越多的游戏  
@@ -12,6 +15,10 @@
   
 
 ## 稳定维护阶段  
+#### [caj2pdf-actions](https://github.com/qinlili23333/caj2pdf-actions)
+`云操作`使用Github Actions转换caj到pdf  
+#### [ctfile.TencentCloud](https://github.com/qinlili23333/ctfile.TencentCloud)  
+`腾讯云函数`基于云函数的城通网盘直连解析  
 #### [ctfile.Workers](https://github.com/qinlili23333/ctfile.Workers)  
 `CloudflareWorkers`基于Workers的城通网盘直连解析  
 #### [FuckCache](https://github.com/qinlili23333/FuckCache)  
