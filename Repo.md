@@ -11,10 +11,25 @@
 `js库`轻量化的基于XHR的网页下载器  
 #### [SuperHexagonOptimize](https://github.com/qinlili23333/SuperHexagonOptimize)  
 `.Net程序`解决SuperHexagon的延迟和卡顿  
+#### [YYDXT_DL](https://github.com/qinlili23333/YYDXT_DL)  
+`浏览器脚本`医药大学堂爬取（目前只支持课件）  
+#### [ReinePrint](https://github.com/qinlili23333/ReinePrint)  
+`Win程序`轻量化可扩展的网络打印服务端  
+#### `Fork`[Custom-Resolution-Utility-ToastyX](https://github.com/qinlili23333/Custom-Resolution-Utility-ToastyX)  
+`Win程序`尝试把CRU迁移到现代化的工具链上，但遇到了一些困难  
+#### [OnlineInstaller](https://github.com/qinlili23333/OnlineInstaller)  
+`.Net程序`一个简单的安装器，支持一些隐藏特性  
 
-  
 
 ## 稳定维护阶段  
+#### [ActionArtifacts.Workers](https://github.com/qinlili23333/ActionArtifacts.Workers)  
+`CloudflareWorkers`抓取Github Actions最新版本构建文件  
+#### `Fork`[MaiSense](https://github.com/qinlili23333/MaiSense)  
+`Win程序`相比原版加入了高分屏缩放支持  
+#### [YKT-OCR-Copy](https://github.com/qinlili23333/YKT-OCR-Copy)  
+`浏览器脚本`雨课堂OCR复制题目  
+#### [KiyomiPDF](https://github.com/qinlili23333/KiyomiPDF)  
+`Android程序`可能是全球最小的PDF阅读器  
 #### [caj2pdf-actions](https://github.com/qinlili23333/caj2pdf-actions)
 `云操作`使用Github Actions转换caj到pdf  
 #### [ctfile.TencentCloud](https://github.com/qinlili23333/ctfile.TencentCloud)  
