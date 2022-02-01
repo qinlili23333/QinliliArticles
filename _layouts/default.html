@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#DFAEFF">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://github.com/GlacierLab/KumoNavigate/" />
+    <link rel="icon" type="image/png" href="/icon.png">
+    <link rel="manifest" href="/manifest.json">
+  <style type="text/css">
+    ::-webkit-scrollbar {
+      height: 12px;
+      width: 8px;
+      background: transparent;
+      z-index: 12;
+      overflow: visible;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      width: 10px;
+      background-color: #DFAEFF;
+      z-index: 12;
+      border: 3px solid rgba(0, 0, 0, 0);
+      background-clip: padding-box;
+      transition: background-color .32s ease-in-out;
+      margin: 4px;
+      min-height: 32px;
+      min-width: 32px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #DFAEFF;
+    }
+
+    ::-webkit-scrollbar-corner {
+      background: #202020;
+    }
+
+  </style>
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      {{ content }}
+    </div>
+    <script>
+function mdjsasync(){
+if(document.getElementById("mdjs")){
+var jsurl=document.getElementById("mdjs").getAttribute("mdjs")
+var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.src = jsurl;
+        document.body.appendChild(script);
+        script.onload=function(){
+console.log("mdjs loaded success")
+}
+}
+}
+setTimeout(mdjsasync,5000)
+  </script>
+  </body>
+</html>
