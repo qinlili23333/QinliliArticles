@@ -38,13 +38,13 @@ window.blobBtn = {
                     eleLink.style.display = 'none';
                     const bloburl = URL.createObjectURL(xhr.response);
                     eleLink.href = bloburl;
-                    window.URL.revokeObjectURL(bloburl)
                     document.body.appendChild(eleLink);
                     eleLink.click();
                     document.body.removeChild(eleLink);
                     dltitle.innerText = "下载成功";
                     dlicon.src = blobBtn.IconPack.down;
                     btn.style.backgroundColor = "#86C166";
+                    window.URL.revokeObjectURL(bloburl)
                 } else {
                     dltitle.innerText = "下载失败:" + xhr.status;
                     dlicon.src = blobBtn.IconPack.fail;
