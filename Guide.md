@@ -1,7 +1,7 @@
 # [× ][] 导航页
 
 ### 网页轻应用
-[云酱游戏导航](https://qinlili.bid/redirect.html?target=https://kumo.qinlili.bid) | [城通网盘解析](https://qinlili.bid/redirect.html?target=https://ctfile.qinlili.bid) | [及格计算器](https://qinlili.bid/redirect.html?target=https://60.qinlili.bid) | [药典下载器](https://qinlili.bid/redirect.html?target=https://drug.qinlili.bid) | [分析化学计算器](https://qinlili.bid/redirect.html?target=https://acc.qinlili.bid) | [游戏网页化移植](https://qinlili.bid/redirect.html?target=https://glacier.qinlili.bid/Port/) 
+[云酱游戏导航](https://qinlili.bid/redirect.html?target=https://kumo.qinlili.bid) | [城通网盘解析](https://qinlili.bid/redirect.html?target=https://ctfile.qinlili.bid) | [及格计算器](https://qinlili.bid/redirect.html?target=https://60.qinlili.bid) | [药典下载器](https://qinlili.bid/redirect.html?target=https://drug.qinlili.bid) | [分析化学计算器](https://qinlili.bid/redirect.html?target=https://acc.qinlili.bid) | [游戏网页化移植](https://qinlili.bid/redirect.html?target=https://glacier.qinlili.bid/Port/) | [545在线](https://545.qinlili.bid)  
  
 ### 原创内容  
 [软件][] | [文章存档][] | [琴梨梨客户端][] | [开源仓库][] | [GreasyFork脚本站](https://qinlili.bid/redirect.html?target=https://greasyfork.org/zh-CN/users/455225-qinlili23333)  
